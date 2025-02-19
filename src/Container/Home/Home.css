@@ -408,6 +408,9 @@ img{
     }
   }     
 @media (max-width: 408px) {
+    .Home{
+        padding-top: 20%;
+    }
     .Home>p{
         font-size: 25px;
     }
