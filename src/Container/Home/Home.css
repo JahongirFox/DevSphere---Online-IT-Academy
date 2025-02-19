@@ -421,29 +421,29 @@ img{
     .P{
         text-align: left;
         font-weight: 200;
-        font-size: 11px;
+        font-size: 10px;
         color: black;
     }
     .img-and-text{
         display: flex;
         align-items: center;
         justify-content: space-between;
-        width: 220px;
-        padding-top: 1%;
+        width: 230px;
+        padding-top: 3%;
     }
     .img-and-text2{
         display: flex;
         align-items: center;
         justify-content: space-between;
-        width: 210px; 
-        padding-top: 1%;
+        width: 220px; 
+        padding-top:3%;
     
     }
     .img-and-text3{
         display: flex;
         align-items: center;
         justify-content: space-between;
-        width: 235px; 
+        width: 240px; 
     
     }
     .img-and-text4{
