@@ -476,3 +476,73 @@ img{
         margin: 30px;
     }
   }     
+@media (max-width: 360px) {
+    .Home{
+        padding-top: 20%;
+    }
+    .Home>p{
+        font-size: 20px;
+    }
+    .Span1{
+        font-weight: 400;
+        color: black;
+    }
+    .P{
+        text-align: left;
+        font-weight: 200;
+        font-size: 10px;
+        color: black;
+    }
+    .img-and-text{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 200px;
+        padding-top: 5%;
+    }
+    .img-and-text2{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 190px; 
+        padding-top: 7%;
+    
+    }
+    .img-and-text3{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 210px; 
+        padding-top: 3%;
+    
+    }
+    .img-and-text4{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 230px; 
+    }
+    img{
+        width: 30px;
+    }
+    .Flex-the-two-cards1{
+        display: block;
+        align-items: center;
+        justify-content: space-around;
+        /* flex-wrap: wrap; */
+    }
+    .Center{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .Background-color1{
+        background-color: white;
+        width: 270px;
+        height: 140px;
+        border-radius: 30px ;
+        text-align: center;
+        padding-left: 20px;
+        margin: 20px;
+    }
+  }     
